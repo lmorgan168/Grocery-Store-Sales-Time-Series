@@ -1,0 +1,6 @@
+# Ignore unused notebooks
+notebook/MLP_unused.ipynb
+notebook/My Project.ipnyb
+
+data/test.csv
+data/train.csv
